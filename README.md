@@ -20,3 +20,12 @@ Custom settings
 
 
 
+
+## Live templates
+
+
+| Action | Shortcut |
+|---|---|
+|Add React component boilerplate | _rc |
+|Add React functional component boilerplate | _rf |
+|Insert import statement| _im |
